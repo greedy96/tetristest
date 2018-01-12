@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TetrisPvp.iml" filepath="$PROJECT_DIR$/.idea/modules/TetrisPvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TetrisPvp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TetrisPvp_main.iml" group="TetrisPvp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TetrisPvp_package.iml" filepath="$PROJECT_DIR$/.idea/modules/TetrisPvp_package.iml" group="TetrisPvp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TetrisPvp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TetrisPvp_test.iml" group="TetrisPvp" />
+    </modules>
+  </component>
+</project>
